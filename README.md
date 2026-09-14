@@ -51,4 +51,5 @@ n8n, WhatsApp Cloud API, LLM APIs, Ollama, Google Sheets API
 
 ## Contact
 
-Open to automation and internal-tooling work. Reach me through GitHub.
+Open to automation and internal-tooling work. Reach me through linkedin.
+
